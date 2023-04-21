@@ -1,5 +1,5 @@
 ---
-title: Is it a function of copula correlation?
+title: Is it a function of copula correlation
 tags: 
 ---
 
