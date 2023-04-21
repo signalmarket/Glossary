@@ -1,0 +1,9 @@
+---
+title: dividend yield
+tags: 
+---
+
+An indicator of annual dividends as a percentage of the share price. It is obtained by dividing the annual dividend per share by the current share price. For example, if the current share price is 1,000 yen and the annual dividend is 10 yen, the dividend yield is 1% (10 yen divided by 1,000 yen). When making an investment, the dividend yield should be calculated based on the expected annual dividend and used as a basis for making a decision. If the stock price declines, the dividend yield will increase. Although there is a risk that a company may decrease its dividend from surplus earnings, some investors value the dividend yield because dividends are more certain than price gains from an increase in the stock price. When looking at the dividend yield for the market as a whole, it is common to use the weighted average yield, which is calculated by weighting the simple average dividend yield by the number of listed shares. In the past, the number of shares issued including the company's own shares was used for the calculation, but the method of calculating the number of shares issued excluding the company's own shares is becoming the mainstream method. This is a measure to make the investment index closer to the actual situation, as companies are increasingly buying and retiring their own shares as a means of returning profits to shareholders.
+
+## Source
+https://www.nomura.co.jp/terms/japan/ha/haitourimawari.html#:~:text=%E6%A0%AA%E4%BE%A1%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%B9%B4%E9%96%93%E9%85%8D%E5%BD%93%E9%87%91,%C3%B71%2C000%E5%86%86%EF%BC%89%E3%81%A8%E3%81%AA%E3%82%8B%E3%80%82

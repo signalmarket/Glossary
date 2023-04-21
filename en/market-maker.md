@@ -1,0 +1,9 @@
+---
+title: market maker
+tags: 
+---
+
+A brokerage firm, bank, or other trading participant that is required to quote quotes for market-making transactions. Also called a "quoting firm.
+
+## Source
+https://www.daiwa.jp/glossary/YST2797.html#:~:text=%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%20%EF%BC%88%E3%81%BE%E3%83%BC%E3%81%91%E3%81%A3%E3%81%A8%E3%82%81%E3%83%BC%E3%81%8B%E3%83%BC%EF%BC%89&text=%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AF%E6%96%B9%E5%BC%8F%E3%81%AE%E5%A3%B2%E8%B2%B7,%E4%BB%98%E3%81%91%E6%A5%AD%E8%80%85%E3%80%8D%E3%81%A8%E3%82%82%E3%81%84%E3%81%84%E3%81%BE%E3%81%99%E3%80%82

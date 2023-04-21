@@ -1,0 +1,9 @@
+---
+title: stock split
+tags: 
+---
+
+To increase the number of shares outstanding by splitting one share into several. For example, a two-for-one stock split automatically doubles the number of shares each shareholder owns, but theoretically halves the value of each share, so the asset value remains the same. However, if the dividend per share remains unchanged, shareholders receive the same effect as if the dividend had been increased. In principle, a stock split can be carried out by a resolution of the board of directors, and the June 2001 amendment to the Commercial Code eliminated restrictions on stock splits, such as the requirement that the net assets per unit after the split must not be less than ¥50,000, making possible large stock splits that were not previously permitted. The stock split was expected to increase the number of shares and theoretically lower the share price, thereby increasing liquidity and broadening the investor base. However, for stocks that have undergone large stock splits, there is a shortage of stock certificates from the record date of the stock split (the date to determine the shareholders to whom the new certificates will be allocated) to the effective date (the date when the new certificates are delivered to the shareholders), and stock prices have been volatile. Since such wild swings in stock prices are undesirable for the stock market, all exchanges in Japan were requested in March 2005 to refrain from conducting large stock splits exceeding five-for-one, and in January 2006, the effective date of stock splits was significantly shortened to the day after the record date (previously, it was approximately 50 days after the record date). This shortened the effective date of stock splits to the day after the record date (previously, it was about 50 days after the record date).
+
+## Source
+https://www.nomura.co.jp/terms/japan/ka/kabu_bunkatu.html

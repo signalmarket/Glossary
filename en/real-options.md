@@ -1,0 +1,9 @@
+---
+title: real options
+tags: 
+---
+
+A Real Option is a future exercisable right associated with a company's investment project. It is a concept that reflects the flexibility of a project or asset in the valuation of business value when there is uncertainty about future cash flows. In business valuation considering real options, the rights exercisable in the future are evaluated as if they were financial options by supporting option pricing theory. For example, if the business environment surrounding an investment project is likely to change significantly in the future, having the right to postpone the execution of the investment project until a desirable time comes is considered a positive factor for the business value. By postponing the execution of the project, the investor can make a decision to execute the project after acquiring additional information about the business environment. In this example, the option to postpone the project would be considered a call option and the business value would be evaluated. Although there is no standard theory for real options that can be applied to any example, there are several typified applications. Examples include the exit option, which considers the right to exit the business after the investment project is executed, and the expansion option, which considers the right to expand the business after the investment project is executed.
+
+## Source
+https://glossary.mizuho-sc.com/faq/show/2469?site_domain=default#:~:text=%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%20(Real%20Option)%20%E3%81%A8,%E5%8F%8D%E6%98%A0%E3%81%99%E3%82%8B%E8%80%83%E3%81%88%E6%96%B9%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82
